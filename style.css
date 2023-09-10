@@ -1,0 +1,26 @@
+body
+{
+  text-align:center;
+  background: rgb(39,4,89);
+  background: linear-gradient(0deg, rgba(39,4,89,1) 0%, rgba(69,0,142,1) 50%, rgba(133,69,252,1) 100%);
+}
+.avyaan
+{
+  font-family: 'Nabla', cursive;
+}
+.avyaana
+{
+  font-family: 'Foldit', cursive;
+}
+button
+{
+    width:100px;
+    height:100px;
+    background-color:wheat;
+    color:black;
+}
+img
+{
+  width:1000;
+  height:500;
+}
